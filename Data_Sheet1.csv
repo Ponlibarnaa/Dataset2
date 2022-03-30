@@ -1,0 +1,15 @@
+RID,AGE,INCOME,STUDENT,CREDIT SALARY,LABEL
+1,Youth,High,No,Fair,No
+2,Youth,High,No,Excellent,No
+3,Middle,High,No,Fair,Yes
+4,Senior,Middle,No,Fair,Yes
+5,Senior,Low,Yes,Fair,Yes
+6,Senior,Middle,Yes,Excellent,No
+7,Youth,Middle,No,Fair,No
+8,Middle,Middle,Yes,Fair,Yes
+9,Youth,Middle,Yes,Fair,Yes
+10,Senior,Middle,Yes,Fair,Yes
+11,Youth,Middle,Yes,Excellent,Yes
+12,Middle,Middle,No,Fair,Yes
+13,Middle,High,Yes,Fair,Yes
+14,Senior,Middle,No,Excellent,No
